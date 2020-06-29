@@ -1,4 +1,4 @@
-# Unit 09 Node.js and ES6+ Homework: Good README Generator
+Good README Generator
 
 
 Here's a gif of me running the program in my terminal 
