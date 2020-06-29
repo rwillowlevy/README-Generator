@@ -1,4 +1,4 @@
-Good README Generator
+## Good Readme Generator 
 
 
 Here's a gif of me running the program in my terminal 
