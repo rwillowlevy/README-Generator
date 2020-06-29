@@ -3,6 +3,8 @@
 
 Here's a gif of me running the program in my terminal 
 
+![Alt Text]https://drive.google.com/file/d/1OmRf6S8Js2SSwn69yJRYBg16EMowYJij/view)
+
 
 Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
