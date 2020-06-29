@@ -1,9 +1,9 @@
 
-# coffee
-![GitHub forks](https://img.shields.io/github/forks/undefined/coffee?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/undefined/coffee)
+# Coffee
+![GitHub forks](https://img.shields.io/github/forks/undefined/Coffee?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/undefined/Coffee)
 ## Description
-hansa coffee roasters
+Hansa coffee roasters
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,9 +17,9 @@ heroku
 ## usage
 test
 ## Contributing
-alex
+Rachel Levy
 ## Tests
-npm
+test
 ## License
 northwestern
 ## Credits
